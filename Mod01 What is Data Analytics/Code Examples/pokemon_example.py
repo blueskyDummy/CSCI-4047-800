@@ -7,7 +7,3 @@
 # pip install pandas
 # "as pd" makes "pd" a nickname for the package
 import pandas as pd
-
-# I want all pokemon from that csv to be in a data frame
-df = pd.read_csv('./AllPokemon.csv') # make sure your file path is good
-print(df)
