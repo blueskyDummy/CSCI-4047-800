@@ -121,7 +121,7 @@ In a notebook cell, run:
 If it prints "Environment ready" with no error, you are done and set
 for the whole semester.
 
-## When the instructor updates the environment
+## When the you update the environment
 
 Sometimes a later module needs a new package. When you are told to
 re-sync, open the Anaconda Prompt, cd into the course folder (Step 4),
