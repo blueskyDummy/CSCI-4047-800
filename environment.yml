@@ -1,0 +1,16 @@
+name: analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - jupyter
+  - ipykernel
+  - openpyxl
+  - pip
